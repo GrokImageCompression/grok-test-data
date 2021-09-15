@@ -42,5 +42,6 @@ Codestream index from main header: {
 		 type=0xff53, pos=59, len=11
 		 type=0xff5c, pos=70, len=15
 		 type=0xff64, pos=85, len=47
+		 type=0xff30, pos=132, len=2
 	 }
 }
